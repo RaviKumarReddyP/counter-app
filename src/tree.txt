@@ -1,0 +1,7 @@
+                         App--> parent
+                           |
+                        -------
+                        |      |
+                    Navbar     Counters
+                                 |
+                                Counter
